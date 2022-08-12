@@ -51,6 +51,11 @@
     color: #fff;
 }
 
+.text-input::placeholder{
+    text-align: left;
+    padding-left: 1rem;
+}
+
 .entrar{
     width: 23.5rem;
     height: 3.2rem;
